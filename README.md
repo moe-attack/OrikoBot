@@ -13,9 +13,11 @@ Sakura Oriko also does live drawing streams on Youtube and Fanbox occasionally (
 
 ### This project
 This project serves the purpose to subscribe to Oriko's Fanbox activity and notify Twitter Bot's subscriber on any new post/stream.
+This project also plans to include more feature, such as stream recording and backup automation, archive access, etc.
 
-Feel free to contribute for any cool add-on features.
+Feel free to contribute to implementing feature goals or help to add any cool add-on features.
 
 ###If you are interested, do follow her on her social profiles!
+
 
 ![Oriko's Illustration Example](https://github.com/moe-attack/OrikoBot/blob/master/Oriko_illust.jpeg)
