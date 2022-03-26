@@ -1,6 +1,7 @@
-import config
-import tweepy, logging
-from FanboxPost import FanboxPost
+import tweepy
+import logging
+from FanboxScalper.FanboxPost import FanboxPost
+from TweetBot import config
 
 
 class TwitterBot:

@@ -1,7 +1,7 @@
 import logging
-import config
-from FanboxPost import FanboxPost
-from TwitterBot import TwitterBot
+from FanboxScalper import config
+from FanboxScalper.FanboxPost import FanboxPost
+from TweetBot.TwitterBot import TwitterBot
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.common.exceptions import NoSuchElementException
